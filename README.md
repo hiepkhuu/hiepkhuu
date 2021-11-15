@@ -5,7 +5,7 @@
 
 
 - 👀 I'm currently looking for a front-end or full-stack position
-- 🔭 I'm currently working on a habit app to inpire users to track their habits and reach their goals!
+- 🔭 I'm currently working on a stock app using different stock Web APIs for my data points.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to creatively fix broken stuff
 - 📫 How to reach me: hiephkhuu@gmail or [LinkedIn](https://www.linkedin.com/in/hiep-khuu-380111201/)
